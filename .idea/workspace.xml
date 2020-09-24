@@ -34,7 +34,7 @@
     <property name="go.sdk.automatically.set" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Go Build.go build main.go">
+  <component name="RunManager" selected="Go Build.go build Beego001">
     <configuration name="go build Beego001" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Beego001" />
       <working_directory value="$PROJECT_DIR$/" />
@@ -64,9 +64,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build Beego001" />
         <item itemvalue="Go Build.go build main.go" />
         <item itemvalue="Go Build.go build default.go" />
-        <item itemvalue="Go Build.go build Beego001" />
       </list>
     </recent_temporary>
   </component>
@@ -78,21 +78,21 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="675" y="181" key="#go_build_default.go/0.0.1920.1040@0.0.1920.1040" timestamp="1600860056201" />
-    <state width="965" height="281" key="GridCell.Tab.0.bottom" timestamp="1600950517303">
+    <state width="1877" height="283" key="GridCell.Tab.0.bottom" timestamp="1600954545183">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="965" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600950517303" />
-    <state width="965" height="281" key="GridCell.Tab.0.center" timestamp="1600950517303">
+    <state width="1877" height="283" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600954545183" />
+    <state width="1877" height="283" key="GridCell.Tab.0.center" timestamp="1600954545183">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="965" height="281" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600950517303" />
-    <state width="965" height="281" key="GridCell.Tab.0.left" timestamp="1600950517303">
+    <state width="1877" height="283" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600954545183" />
+    <state width="1877" height="283" key="GridCell.Tab.0.left" timestamp="1600954545183">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="965" height="281" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600950517303" />
-    <state width="965" height="281" key="GridCell.Tab.0.right" timestamp="1600950517303">
+    <state width="1877" height="283" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600954545183" />
+    <state width="1877" height="283" key="GridCell.Tab.0.right" timestamp="1600954545183">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="965" height="281" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600950517303" />
+    <state width="1877" height="283" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600954545183" />
   </component>
 </project>
