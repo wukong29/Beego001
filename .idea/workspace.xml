@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9138c37e-3d9e-4d51-bb65-15c1f13d6701" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/controllers/Register.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/register.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/app.conf" beforeDir="false" afterPath="$PROJECT_DIR$/conf/app.conf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/controllers/default.go" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/default.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/models/person.go" beforeDir="false" afterPath="$PROJECT_DIR$/models/person.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/routers/router.go" beforeDir="false" afterPath="$PROJECT_DIR$/routers/router.go" afterDir="false" />
     </list>
@@ -37,9 +41,9 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../BeegoProject0603" />
   </component>
-  <component name="RunManager" selected="Go Build.go build default.go (1)">
+  <component name="RunManager" selected="Go Build.go build main.go">
     <configuration name="go build Beego001" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Beego001" />
       <working_directory value="$PROJECT_DIR$/" />
@@ -50,6 +54,15 @@
       <method v="2" />
     </configuration>
     <configuration name="go build default.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Beego001" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/controllers/default.go" />
+      <package value="Beego001" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build default.go (2)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Beego001" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="PACKAGE" />
@@ -78,9 +91,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build main.go" />
+        <item itemvalue="Go Build.go build default.go (2)" />
         <item itemvalue="Go Build.go build default.go (1)" />
         <item itemvalue="Go Build.go build Beego001" />
-        <item itemvalue="Go Build.go build main.go" />
         <item itemvalue="Go Build.go build default.go" />
       </list>
     </recent_temporary>
@@ -97,21 +111,29 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="675" y="181" key="#go_build_default.go_(1)/0.0.1920.1040@0.0.1920.1040" timestamp="1600958707553" />
-    <state width="1877" height="283" key="GridCell.Tab.0.bottom" timestamp="1600960891483">
+    <state x="1190" y="184" key="#go_build_default.go_(2)" timestamp="1600997132097">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="283" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600960891483" />
-    <state width="1877" height="283" key="GridCell.Tab.0.center" timestamp="1600960891482">
+    <state x="1190" y="184" key="#go_build_default.go_(2)/0.0.1920.1040@0.0.1920.1040" timestamp="1600997132097" />
+    <state x="870" y="321" key="FileChooserDialogImpl" timestamp="1601119294011">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="283" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600960891482" />
-    <state width="1877" height="283" key="GridCell.Tab.0.left" timestamp="1600960891482">
+    <state x="870" y="321" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1601119294011" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1601121852464">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="283" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600960891482" />
-    <state width="1877" height="283" key="GridCell.Tab.0.right" timestamp="1600960891482">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1601121852464" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1601121852464">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="283" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600960891482" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1601121852464" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1601121852464">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1601121852464" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1601121852464">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1601121852464" />
   </component>
 </project>
